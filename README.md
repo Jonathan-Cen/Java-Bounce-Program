@@ -8,3 +8,4 @@ Some of the design patterns include:
 - Observer Pattern
 - Adaptor Pattern
     
+![Alt text](/sample_panel.png?raw=true "Command Window")
