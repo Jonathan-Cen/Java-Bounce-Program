@@ -1,4 +1,4 @@
-# Java_Bounce_Program
+# Java Bounce Program
 
 This program aims to practice the various object oriented design principles taught in the COMPSCI 230 (Object Oriented Software Development) Course.
 
